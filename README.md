@@ -121,7 +121,7 @@ HTML • CSS • JavaScript
 
 📧 **Email:** shreyaanand503@gmail.com
 
-💼 **LinkedIn:**https://www.linkedin.com/in/shreya-anand-2000a4278
+💼 **LinkedIn:** https://www.linkedin.com/in/shreya-anand-2000a4278
 
 💻 **GitHub:** https://github.com/ishreyaanand123
 
